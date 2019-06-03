@@ -1,0 +1,31 @@
+<meta charset="UTF-8">    
+<title>Document</title>
+
+<style>
+    body{
+        background-color:#e5e8f2;
+    }
+    .header{
+        background-color:#3b5998;
+        min-height:3em;
+    }
+    .titre{
+        color:white;
+        text-align:left;     
+    }
+    .connexion{
+        color:white;
+        text-align:right;            
+    }
+    .inscription{
+        text-align:center;
+    }
+    .form{
+        height:3em;
+        width:25em;
+        border-radius:5px;
+    }
+    .buttom{            
+        border-radius:5px;
+    }
+</style>
